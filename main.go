@@ -23,4 +23,9 @@ func main() {
 		fmt.Println("User is not an administrator")
 	}
 
+	// go build for bulding exe file i.e flags.exe
+
+	// to run that flags.exe file run ./flags in command promt
+	// ./flags -name "sai Yadav" -age 23 -admin false
+
 }
